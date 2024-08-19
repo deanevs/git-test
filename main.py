@@ -8,6 +8,9 @@ def branched():
 def branched_further():
     print("Branched")
 
+def another_commit():
+    print("Commit 3")
+
 if __name__ == '__main__':
     main()
     branched()
