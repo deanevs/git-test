@@ -36,6 +36,8 @@ production argh
 #
 # commit after tag
 
+# push new tag
+
 if __name__ == '__main__':
     main()
     branched()
