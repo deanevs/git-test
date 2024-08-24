@@ -21,6 +21,8 @@ def another_commit():
 
 # let's make some changes for stash
 
+# make a change and commit locally only
+
 if __name__ == '__main__':
     main()
     branched()
