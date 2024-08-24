@@ -29,6 +29,8 @@ def another_commit():
 
 # lets make changes after stash
 
+# br-test again
+
 """
 Lets get carried away and make changes.  Now need to 
 production argh
@@ -37,6 +39,8 @@ production argh
 # commit after tag
 
 # push new tag
+
+# ammend changes
 
 if __name__ == '__main__':
     main()
