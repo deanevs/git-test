@@ -27,6 +27,8 @@ def another_commit():
 
 # commit after creating tag
 
+# lets make changes after stash
+
 if __name__ == '__main__':
     main()
     branched()
