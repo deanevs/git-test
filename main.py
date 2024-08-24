@@ -23,6 +23,8 @@ def another_commit():
 
 # make a change and commit locally only
 
+# make another change
+
 if __name__ == '__main__':
     main()
     branched()
