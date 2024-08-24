@@ -25,6 +25,8 @@ def another_commit():
 
 # make another change
 
+# commit after creating tag
+
 if __name__ == '__main__':
     main()
     branched()
