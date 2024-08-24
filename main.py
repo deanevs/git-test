@@ -17,6 +17,10 @@ def another_commit():
 
 # this is back in main
 
+# this is another stash
+
+# let's make some changes for stash
+
 if __name__ == '__main__':
     main()
     branched()
