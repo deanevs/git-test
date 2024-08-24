@@ -11,6 +11,8 @@ def branched_further():
 def another_commit():
     print("Commit 3")
 
+# this is after merge and branch delete
+
 if __name__ == '__main__':
     main()
     branched()
