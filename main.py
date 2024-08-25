@@ -42,6 +42,8 @@ production argh
 
 # ammend changes
 
+# typing this in github with changes made in local branch before
+
 if __name__ == '__main__':
     main()
     branched()
